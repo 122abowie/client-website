@@ -1,3 +1,11 @@
 a:hover {
   color: #ff0000;
 }
+.carousel {
+  height: 50%;
+  width: 60%;
+  margin: 0 auto;
+}
+.aboutus {
+  padding-left: 150px;
+}
